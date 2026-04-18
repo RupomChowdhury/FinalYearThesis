@@ -1,0 +1,60 @@
+{
+    "Markers": [
+        {
+            "deleted": false,
+            "endDatetime": "2025-10-26T10:40:08.517958+06:00",
+            "extras": {
+                "eventId": "",
+                "isUserDefined": false,
+                "phaseId": "80cec1a5-5d16-4559-985e-816f8fa2c6b9",
+                "phaseType": "basic phase",
+                "typeInfo": "phase",
+                "ui": {
+                    "color": "phase-color-2",
+                    "trigger": "auto"
+                }
+            },
+            "index": 1,
+            "label": "Eyes closed",
+            "originalEndDatetime": "2025-10-26T10:40:08.518247+06:00",
+            "originalStartDatetime": "2025-10-26T10:34:03.421662+06:00",
+            "port": "emotivpro",
+            "startDatetime": "2025-10-26T10:34:03.421161+06:00",
+            "type": "interval",
+            "uuid": "dd96464c-dc87-4764-93d7-4b0f576da597",
+            "value": 0
+        }
+    ],
+    "connectionType": "bluetooth",
+    "demographics": {
+        "birthday": "1999-01-01",
+        "countryOfInfluence": {
+            "iso": "BD",
+            "printable": "Bangladesh"
+        },
+        "countryOfResidence": {
+            "iso": "BD",
+            "printable": "Bangladesh"
+        },
+        "education": "Bachelor's degree",
+        "gender": "M",
+        "handedness": "Right",
+        "languageAbility": "Bilingual",
+        "meditation": {
+            "answer": false,
+            "duration_frequency": "",
+            "duration_minute": "",
+            "length": "",
+            "length_unit": ""
+        },
+        "musicalAbility": "None",
+        "profession": "Education and training"
+    },
+    "exportApp": "com.emotiv.emotivpro",
+    "exportTime": "2025-10-26T11:34:17.830+06:00",
+    "headsetType": "EPOCX",
+    "mappings": null,
+    "montageType": "UNKNOWN",
+    "recordId": "277569b6-cb41-4011-987f-0c52407c6682",
+    "user": "sushmit"
+}

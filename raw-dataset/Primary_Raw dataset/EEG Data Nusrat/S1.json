@@ -1,0 +1,36 @@
+{
+    "Markers": [
+    ],
+    "connectionType": "bluetooth",
+    "demographics": {
+        "birthday": "1999-01-01",
+        "countryOfInfluence": {
+            "iso": "BD",
+            "printable": "Bangladesh"
+        },
+        "countryOfResidence": {
+            "iso": "BD",
+            "printable": "Bangladesh"
+        },
+        "education": "Bachelor's degree",
+        "gender": "M",
+        "handedness": "Right",
+        "languageAbility": "Bilingual",
+        "meditation": {
+            "answer": false,
+            "duration_frequency": "",
+            "duration_minute": "",
+            "length": "",
+            "length_unit": ""
+        },
+        "musicalAbility": "None",
+        "profession": "Education and training"
+    },
+    "exportApp": "com.emotiv.emotivpro",
+    "exportTime": "2025-10-26T11:34:28.697+06:00",
+    "headsetType": "EPOCX",
+    "mappings": null,
+    "montageType": "UNKNOWN",
+    "recordId": "6caab760-0212-414c-a888-987c7aa79571",
+    "user": "sushmit"
+}
