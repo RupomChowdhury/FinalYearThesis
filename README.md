@@ -1,6 +1,5 @@
-# FinalYearThesis
-
-# 🧠 Mental Fatigue Detection using EEG Signals
+# 🧠 A Novel Cost-Effective EEG-Based Technique Using Fewer Channels to Detect 
+Mental Fatigue in Office Settings with Machine Learning 
 
 ## 📌 Overview
 
