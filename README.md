@@ -1,5 +1,4 @@
-# 🧠 A Novel Cost-Effective EEG-Based Technique Using Fewer Channels to Detect 
-Mental Fatigue in Office Settings with Machine Learning 
+# 🧠 A Novel Cost-Effective EEG-Based Technique Using Fewer Channels to Detect Mental Fatigue in Office Settings with Machine Learning 
 
 ## 📌 Overview
 
